@@ -1,0 +1,16 @@
+echo "test@example.com
+invalid-email
+user.name@domain.co
+another.email@domain123.org
+wrong-email@domain,com
+valid.email+filter@sub.domain.com
+@missingusername.com
+user@domain.c
+good-email@domain.com"
+valid@example.com
+invalid-email.com
+another.valid@domain.org
+wrong@domain
+valid.email@subdomain.domain.com
+user@domain
+valid-email@dom

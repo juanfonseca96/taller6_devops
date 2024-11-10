@@ -1,0 +1,8 @@
+Jose 12 6
+Daniela 13 7
+Juan 13 7
+Sara 14 8
+Wilson 15 9
+Roberto 15 9
+Damian 15 9
+Sofia 16 10
